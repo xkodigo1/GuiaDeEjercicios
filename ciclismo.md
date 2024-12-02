@@ -8,3 +8,8 @@ El ciclismo es una actividad cardiovascular que implica pedalear en una biciclet
 - Ayuda a quemar calorías y a reducir la grasa corporal.
 - Fortalece las piernas y mejora la tonificación muscular.
 - Bajo impacto, ideal para personas con problemas en las articulaciones.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, pedaleando a un ritmo suave.
+2. Realiza una sesión de ciclismo durante al menos 30 minutos. Puedes hacerlo al aire libre en una ruta variada o en una bicicleta estática ajustando la resistencia.
+3. Termina con un enfriamiento de 5-10 minutos, pedaleando lentamente, y estiramientos para las piernas, caderas y espalda.
