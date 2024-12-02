@@ -13,3 +13,8 @@ El Pilates es un sistema de ejercicios que se centra en el fortalecimiento del c
 1. Comienza con un calentamiento de 5-10 minutos, realizando movimientos suaves de movilidad para las articulaciones y la columna vertebral.
 2. Realiza una serie de ejercicios de Pilates durante 30 minutos, que pueden incluir ejercicios como "The Hundred", "Roll-Up", "Plank", y estiramientos controlados. Trabaja en la respiración profunda y en mantener una postura correcta durante todo el ejercicio.
 3. Termina con un enfriamiento de 5-10 minutos, realizando estiramientos suaves y respiración profunda para relajarte.
+
+## Consejos
+- Mantén siempre la respiración controlada y profunda durante los ejercicios para maximizar los beneficios.
+- Asegúrate de realizar los movimientos con la técnica adecuada para evitar lesiones y obtener los mejores resultados.
+- Si eres principiante, comienza con clases guiadas o videos de Pilates para familiarizarte con los ejercicios y evitar hacerlos de manera incorrecta.
