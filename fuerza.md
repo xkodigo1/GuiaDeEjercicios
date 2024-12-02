@@ -8,3 +8,8 @@ El entrenamiento de fuerza se enfoca en mejorar la potencia muscular a través d
 - Mejora la salud ósea y la densidad ósea.
 - Acelera el metabolismo, ayudando en la quema de calorías incluso en reposo.
 - Mejora el rendimiento en otras actividades físicas y cotidianas.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, que puede incluir ejercicios de movilidad articular y un poco de actividad cardiovascular ligera, como caminar o trotar.
+2. Realiza una rutina de entrenamiento de fuerza que incluya ejercicios como sentadillas, flexiones, levantamientos de pesas, deadlifts, y press de banca. Realiza de 3 a 4 series de 8-12 repeticiones por ejercicio.
+3. Termina con un enfriamiento de 5-10 minutos, que puede incluir estiramientos estáticos y respiración profunda para relajar los músculos.
