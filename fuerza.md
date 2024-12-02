@@ -13,3 +13,8 @@ El entrenamiento de fuerza se enfoca en mejorar la potencia muscular a través d
 1. Comienza con un calentamiento de 5-10 minutos, que puede incluir ejercicios de movilidad articular y un poco de actividad cardiovascular ligera, como caminar o trotar.
 2. Realiza una rutina de entrenamiento de fuerza que incluya ejercicios como sentadillas, flexiones, levantamientos de pesas, deadlifts, y press de banca. Realiza de 3 a 4 series de 8-12 repeticiones por ejercicio.
 3. Termina con un enfriamiento de 5-10 minutos, que puede incluir estiramientos estáticos y respiración profunda para relajar los músculos.
+
+## Consejos
+- Asegúrate de utilizar una técnica adecuada para evitar lesiones, especialmente cuando trabajes con pesas.
+- Progresivamente aumenta el peso o la dificultad de los ejercicios para seguir desafiando a tus músculos.
+- Mantén una hidratación adecuada y realiza una correcta alimentación para maximizar los resultados del entrenamiento de fuerza.
