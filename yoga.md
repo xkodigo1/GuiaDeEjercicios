@@ -8,3 +8,8 @@ El yoga es una disciplina que combina posturas físicas, respiración controlada
 - Reduce el estrés y promueve la relajación mental.
 - Aumenta la fuerza, especialmente en el core, piernas y espalda.
 - Ayuda a la mejora de la circulación y la respiración profunda.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos de respiración profunda y movimientos suaves, como estiramientos de cuello, hombros y muñecas.
+2. Realiza una serie de posturas de yoga durante 30 minutos, incorporando movimientos dinámicos y de fortalecimiento, como el "Perro mirando hacia abajo", "Plancha" o "Guerrero". Si practicas un estilo dinámico como Vinyasa, mueve fluida y lentamente entre las posturas.
+3. Termina con un enfriamiento de 5-10 minutos, realizando posturas de relajación como "Savasana" y respiraciones profundas para calmar el cuerpo y la mente.
