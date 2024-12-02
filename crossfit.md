@@ -13,3 +13,8 @@ El CrossFit es un entrenamiento de alta intensidad que combina levantamiento de 
 1. Comienza con un calentamiento de 5-10 minutos, que puede incluir saltos, estiramientos dinámicos y movimientos articulares.
 2. Realiza un WOD (Workout of the Day) que incluya una combinación de ejercicios de alta intensidad, como saltos, burpees, levantamientos de pesas, y sprints. Realiza el circuito durante al menos 30 minutos.
 3. Termina con un enfriamiento de 5-10 minutos y estiramientos enfocados en todo el cuerpo, especialmente en las piernas, espalda y hombros.
+
+## Consejos
+- Mantén una hidratación adecuada antes, durante y después del entrenamiento.
+- Ajusta la intensidad del entrenamiento según tu nivel físico y aumenta gradualmente la carga.
+- Si eres principiante, es recomendable recibir orientación de un entrenador para evitar lesiones y asegurar una técnica correcta.
