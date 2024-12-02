@@ -8,3 +8,8 @@ La natación es una actividad cardiovascular de bajo impacto que involucra el mo
 - Aumenta la fuerza muscular y tonifica todo el cuerpo.
 - Es una actividad de bajo impacto, ideal para personas con lesiones o problemas articulares.
 - Ayuda a quemar calorías y a reducir el estrés.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos en el agua, nadando a un ritmo suave o realizando ejercicios de movilidad dentro del agua.
+2. Realiza una sesión de natación durante al menos 30 minutos, alternando estilos de natación como crol, braza, espalda y mariposa, para trabajar diferentes grupos musculares.
+3. Termina con un enfriamiento de 5-10 minutos nadando a un ritmo lento y realizando estiramientos para relajar los músculos, especialmente los hombros, las piernas y la espalda.
